@@ -1,0 +1,31 @@
+{
+  "name": "midnight",
+  "authors": [
+    "Stephen"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "renmaituan.wx"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/lib/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.4",
+    "backbone": "~1.3.3"
+  },
+  "devDependencies": {
+  }
+}
