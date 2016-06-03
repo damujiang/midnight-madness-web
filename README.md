@@ -68,7 +68,7 @@ docker build -t midnight-madness-web .
 ##### How to run with Docker?
 
 ```
-docker run -e "APP_NAME=midnight-madness-web" -e "EXPEDIA_ENVIRONMENT=dev" -e "ACTIVE_VERSION=$(git rev-parse HEAD)" -p 8080:8080 midnight-madness-web
+
 ```
 
 Open a browser and hit [http://LOCAL_DOCKER_IP:8080/](http://LOCAL_DOCKER_IP:8080/) (e.g. [http://192.168.99.100:8080](http://192.168.99.100:8080))
